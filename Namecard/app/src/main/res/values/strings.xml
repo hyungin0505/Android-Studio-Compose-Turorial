@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Namecard</string>
+    <string name="title">My NameCard</string>
+    <string name="name">Hyungin Ko</string>
+    <string name="call">010–2979–7564</string>
+    <string name="birthday">2005.11.11</string>
+    <string name="school">Konkuk University</string>
+    <string name="major">Computer Science&amp;Engineering</string>
+    <string name="email">hyungin0505@naver.com</string>
+    <string name="blog">hyungin0505.tistory.com</string>
+    <string name="instagram">\@______kgd______</string>
+    <string name="youtube">\@kogandhi05</string>
+</resources>
